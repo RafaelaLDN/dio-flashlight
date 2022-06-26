@@ -1,5 +1,7 @@
 # Lanterna -DIO
 
+Projeto do instrutor Ismael.
+
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
